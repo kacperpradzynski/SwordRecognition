@@ -1,3 +1,3 @@
 #!/bin/bash
 
-recognize.py -i $1 -c './config'
+python3 recognize.py -i $1 -c './config'
